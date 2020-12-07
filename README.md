@@ -8,7 +8,7 @@ Arguments:
 
 	 -h, --help            show this help message and exit
 	 --address ADDRESS     Glasses BLE addresses
-	 --action {BEEP,SHUTDOWN} Action to be executed 
+	 --action {BEEP,SHUTDOWN, CHANGE_DEVICE_NAME, PRINT_INFOS} Action to be executed 
 	 --init {1,0}          Should the script activate bluetooth
 	 --keepsending {1,0}   Should we keep sending the request ? Doing so will
 	                       constantly send the action. That means for example if
