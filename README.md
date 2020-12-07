@@ -5,9 +5,9 @@
 >    usage: ellcieExploiter.py [-h] --address ADDRESS --action {BEEP,SHUTDOWN}   [--init {1,0}] [--keepsending {1,0}] 
 
 
-optional arguments:
+Arguments:
 
-	  -h, --help            show this help message and exit
+	 -h, --help            show this help message and exit
 	 --address ADDRESS     Glasses BLE addresses
 	 --action {BEEP,SHUTDOWN} Action to be executed 
 	 --init {1,0}          Should the script activate bluetooth
@@ -18,6 +18,11 @@ optional arguments:
 	                       with again and again shutdown.
 
 
-### Exemple 
+### Example 
 
-    python3 ellcieExploiter.py  --address=E7:60:74:B4:98:3E --init=0 --keepsending=1 --action=SHUTDOWN -h
+    python3 ellcieExploiter.py  --address=E7:60:74:B4:98:3E --init=0 --keepsending=1 --action=SHUTDOWN
+
+
+### Video 
+
+https://www.youtube.com/watch?v=fmF9yqJvT5s
