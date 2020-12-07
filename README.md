@@ -1,6 +1,5 @@
-
-
 # Ellcie Healthy glasses : Remote Command Execution
+
 
 >    usage: ellcieExploiter.py [-h] --address ADDRESS --action {BEEP,SHUTDOWN}   [--init {1,0}] [--keepsending {1,0}] 
 
