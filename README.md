@@ -23,5 +23,5 @@ Arguments:
 
 
 ### Video 
-
-https://www.youtube.com/watch?v=fmF9yqJvT5s
+https://youtu.be/WyEZmGCzc6s
+https://youtu.be/fmF9yqJvT5s
